@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "name": "browser-extension-template",
+  "description": "An Extension.js example.",
+  "version": "0.0.1",
+  "author": {
+    "name": "Your Name",
+    "email": "your@email.com",
+    "url": "https://yourwebsite.com"
+  },
+  "license": "MIT",
+  "scripts": {
+    "dev": "extension dev",
+    "start": "extension start",
+    "build": "extension build"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "extension": "latest"
+  }
+}
